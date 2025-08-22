@@ -1,5 +1,5 @@
 /**
- * @author: kared
+ * @author: kared https://github.com/zhumengkang/cf-ai-image
  * @create_date: 2025-05-10 21:15:59
  * @last_editors: kared
  * @last_edit_time: 2025-05-11 01:25:36
@@ -439,3 +439,4 @@ export default {
     }
   },
 };
+
